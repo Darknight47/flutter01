@@ -15,6 +15,7 @@ class Cafe extends StatelessWidget {
                 Colors.brown.withOpacity(0.9), BlendMode.dstATop),
           ),
         ),
+        child: Text("hej"),
       ),
     );
   }
